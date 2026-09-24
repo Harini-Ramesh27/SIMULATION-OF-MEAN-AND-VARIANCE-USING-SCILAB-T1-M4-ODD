@@ -44,11 +44,15 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## Outpt
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/62776b83-0aae-4f42-aebc-6f915626d886" />
+MARK SPLIT-UP:
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/d85bca6e-1129-4a2a-8d2b-3647d1ccb104" />
+
 
 
 
 ## Result
-Thus the mean and variance are executed in Scilab and output is verified.
+<img width="1600" height="502" alt="image" src="https://github.com/user-attachments/assets/e60fe67c-b2c2-475d-ba4b-89cdcdb2188c" />
+
 
 
  
